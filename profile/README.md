@@ -9,7 +9,7 @@ Isinya tools internal yang kami bangun untuk mengotomatisasi dan mengoptimalkan 
 | Proyek | Deskripsi | Stack |
 |---|---|---|
 | [**diLPPin**](https://github.com/mahasajo/diLPPin) | Otomatisasi pembuatan Laporan Pelaksanaan Pekerjaan (LPP). | React · Go · Python · PostgreSQL · Docker |
-| **nama-proyek** | Deskripsi singkat proyek kedua. | Stack |
+| - | Coming Soon | - |
 
 ## 👥 Tim
 
@@ -22,7 +22,6 @@ Isinya tools internal yang kami bangun untuk mengotomatisasi dan mengoptimalkan 
   <a href="https://github.com/kofulnandita" title="kofulnandita"><img src="https://images.weserv.nl/?url=github.com/kofulnandita.png&w=80&h=80&fit=cover&mask=circle&output=png" width="64"/></a>
   <a href="https://github.com/RandyRizaldo" title="Randy Rizaldo Setyawan"><img src="https://images.weserv.nl/?url=github.com/RandyRizaldo.png&w=80&h=80&fit=cover&mask=circle&output=png" width="64"/></a>
 </p>
-
 
 ---
 
